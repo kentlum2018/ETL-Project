@@ -1,0 +1,13 @@
+Team : 
+Monica and Kent
+
+Idea: 
+Look at the change of temperature over a few years compared to the number of reported Zika medical cases over the North American (US) continent . Potential years 2018 to 2015
+
+Goal: 
+Correlate the temperature change (increase/decrease) related to the spread of Zika
+
+Potential data sources: 
+Wunderground for historical temperature data( max and low temps over each month for the years)
+https://www.cdc.gov/zika/reporting/2016-case-counts.html
+
